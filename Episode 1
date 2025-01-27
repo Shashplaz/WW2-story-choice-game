@@ -1,0 +1,55 @@
+print("Episode: The Betrayl")
+print("1941")
+print("Story Teller: You're a German sergeant who is fighting allies power.")
+print("*One day while a break you head into the main military to get orders from your lieutenant from training your squad but you freeze from the captain of the camp and your lieutenant are arguing*")
+print("Translated from German to English")
+print("Lieutenant: *salutes* Sir")
+print("Captain: At ease, I will need those reports Lietenant")
+print("Lieutenant: Yes sir")
+print("Captain: Thats al-")
+print("*You suddenly hear a silenced gunshot and open the door*")
+print("Lieutenant: ...")
+print("Story Teller: You have four choices please enter the upper case letter: A. Try and shoot the general B. Run away C. Shout for support D. Stay silent and listen to the general")
+ChoiceOne=input("Enter choice here: ")
+if ChoiceOne == "A":
+    print("*You were too slow and got shot*")
+    exit()
+elif ChoiceOne == "B":
+    print("*You try to run but get shot*")
+    exit()
+elif ChoiceOne == "C"
+    print("*The captain strangles you with a fiber wire and drags you in letting the soldiers know it was a false alarm*")
+    exit()
+elif ChoiceOne == "D"
+    print("*You stay silent and close the door behind you*")
+else
+    print("500 INTERNAL ERROR PLEASE REFER ONLINE OR RESTART THE PROGRAM")
+
+print("*After 5 minutes of silence* You: So... explain yourself")
+print("Lietunant: As you can guess I am a traitor... a spy")
+print("You: I could guess that so no explanation")
+print("*The lietunant kneels and looks down and gives you a gun* Lietunant: Please just shoot quickly and get this over with")
+ChoiceTwo = input("A. Shoot B. Team up ")
+
+if ChoiceTwo == "A":
+    print("*Soldiers enter the room and kill you not knowing you killed a spy*")
+elif ChoiceTwo == "B":
+    print("*You drop the gun * You: Get up")
+else
+    print("500 INTERNAL ERROR PLEASE REFER ONLINE OR RESTART THE PROGRAM")
+
+print("Lietnant: ...I needed to kill the captain to get into the boiler room that used to store heat for cooking and heated water")
+print("You: Let me do it I want to do it")
+print("Lietnant: The risk is too m- ")
+print("You: Just let me do it")
+print("Lietnant: ...Okay")
+print("You: Give me the bomb")
+print("*Lietnant hands to bomb to you with a glint of hope*")
+print("Lietnant: Keep it in the boiler room under the sink next to the boiler and detonate outside of the camp")
+print("You: What is your name?")
+print("Karl")
+print("You: Okay Karl, get out of the camp and hide")
+print("*As you leave you feel scared but hopeful*")
+print("*You look at the boiler room and with hope and dread you walk in*")
+
+print("EPISODE ONE FINISHED")
